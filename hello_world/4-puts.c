@@ -1,13 +1,2 @@
-#include <stdio.h>
-
-/**
- * main - prints "Programming is like building a multilingual puzzle
- * Return: Always 0.
- */
-
-int main(void)
-
-{
-	puts ("\"Programming is like building a multilingual puzzle");
-	return (0);
-}
+VimCrypt~03!u°˜<jIÑnRÿÛîÒhP80Àx‚Çá6°q‰£Ç‹é¿ÇGAÛ<¥Ô­5Z:É`)w5ú{z§x'ÙnÌ‹JÁµzO5·¾%Ö»B…Íñ^}JQ1¨êwibÓª3âÉjØ
+5{ÀØ#,k®gç!üûÃú?Î[.%gÜW`]/¹û¥×Š¸#•>ÃXFp0nqşÓaIä,£¨ooJ*‰”oâÂ÷ñyjÈİ8ß3*]$bŸÖÒè°¤ú,’`ÂEm"éãì$ê-Z	’ŠíRpâ…æ-"ÅÒ,Æ¦¹ùÙæSm
