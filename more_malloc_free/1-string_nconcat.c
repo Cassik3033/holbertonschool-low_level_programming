@@ -31,6 +31,8 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	while (j < l)
 	{
 		if (j <= i)
+			str[j] = s1[k];
+		if (j >= i)
 		{
 			str[j] = s2[k];
 			k++;
